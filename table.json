@@ -1,0 +1,82 @@
+{
+    "A2"         :   {
+        "Thickness"    :   10,
+        "Weight "  :   260,
+        "Opmemory"       :   4,
+        "Memory " :   64,
+        "Battery"  :   3010,
+		"Cameras"  : 2
+    },
+    "A3"        :   {
+        "Thickness"    :   10,
+        "Weight "  :   200,
+        "Opmemory"       :   4,
+        "Memory " :   128,
+        "Battery"  :   4030,
+		"Cameras"  : 3
+    },
+    "Mi10"     :   {
+        "Thickness"    :   8,
+        "Weight "  :   200,
+        "Opmemory"       :   6,
+        "Memory " :   64,
+        "Battery"  :   4160,
+		"Cameras"  : 2
+    },
+    "Mi10lite"       :   {
+        "Thickness"    :   10,
+        "Weight "  :  190,
+        "Opmemory"       :   6,
+        "Memory " :   64,
+        "Battery"  :   4820,
+		"Cameras"  : 3
+    },
+    "Mi10Tlite"      :   {
+        "Thickness"    :   9,
+        "Weight "  :   200,
+        "Opmemory"       :   6,
+        "Memory " :   128,
+        "Battery"  :   5000,
+		"Cameras"  : 2
+    },
+    "Mi10T"  :   {
+        "Thickness"    :   8,
+        "Weight "  :   200,
+        "Opmemory"       :   8,
+        "Memory " :   128,
+        "Battery"  :   5000,
+		"Cameras"  : 3
+    },
+    "Mi10Tpro":   {
+        "Thickness"    :   9,
+        "Weight "  :   260,
+        "Opmemory"       :   8,
+        "Memory " :   128,
+        "Battery"  :   3400,
+		"Cameras"  : 3
+    },
+    "Mi8" :   {
+        "Thickness"    :   8,
+        "Weight "  :   200,
+        "Opmemory"       :   6,
+        "Memory " :   64,
+        "Battery"  :   3000,
+		"Cameras"  : 2
+    },
+    "Mi play"        :   {
+        "Thickness"    :   9,
+        "Weight "  :   200,
+        "Opmemory"       :   4,
+        "Memory " :   64,
+        "Battery"  :  3300,
+		"Cameras"  : 2
+    }
+	 "Mi9"        :   {
+        "Thickness"    :   8,
+        "Weight "  :   220,
+        "Opmemory"       :   6,
+        "Memory " :   64,
+        "Battery"  :   4780,
+		"Cameras"  : 2
+    }
+}
